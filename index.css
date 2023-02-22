@@ -1,0 +1,27 @@
+/* Write your code here. */
+.heading {
+  font-family: "Bree Serif";
+  color: #ffffff;
+}
+.bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  margin-top: 50px;
+}
+.button1 {
+  color: #ffffff;
+  font-family: "Roboto";
+  background-color: #eab308;
+}
+.button2 {
+  color: #323f4b;
+  font-family: "Roboto";
+  background-color: #ffffff;
+}
+.button3 {
+  color: #ffffff;
+  font-family: "Roboto";
+  background-color: #1d4ed8;
+}
